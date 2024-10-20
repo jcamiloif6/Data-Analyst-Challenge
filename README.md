@@ -40,7 +40,7 @@ Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes c
 
 - Clonar el Repositorio:
 
-        git clone https://github.com/usuario/repositorio.git
+        git clone https://github.com/jcamiloif6/Data-Analyst-Challenge.git
 
 - Ejecutar la API REST(codigo para insertar datos):
 
